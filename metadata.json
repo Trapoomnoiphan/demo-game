@@ -1,0 +1,6 @@
+{
+  "name": "Game Launcher with Custom Controls",
+  "description": "A full-screen responsive game launcher featuring a start menu, key control mapping options, and an interactive retro arcade micro-game in a dark crimson theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
